@@ -5,10 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "MUNIN 100")
+    (title "MUNIN 100 HF PA")
     (date "2021-12-03")
     (rev "0")
     (company "LA2NI")
+    (comment 1 "Eng:Kjell Karlsen")
   )
 
   (lib_symbols
