@@ -3932,7 +3932,7 @@
     (uuid 0e3bc30e-6bf4-4a3b-bb9e-b0222a0ada2e)
     (property "Reference" "J1" (id 0) (at 27.178 36.6734 0))
     (property "Value" "TX_IN" (id 1) (at 27.178 38.9721 0))
-    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132291-12_Vertical" (id 2) (at 25.4 41.91 0)
+    (property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal" (id 2) (at 25.4 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 25.4 41.91 0)
@@ -4932,7 +4932,7 @@
     (property "Value" "Conn_Coaxial" (id 1) (at 208.2801 50.6219 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-11_Vertical" (id 2) (at 205.74 46.99 0)
+    (property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal" (id 2) (at 205.74 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 205.74 46.99 0)
@@ -5971,10 +5971,10 @@
       (reference "IC1") (unit 1) (value "ACHS-7123") (footprint "Package_SO:SO-8_5.3x6.2mm_P1.27mm")
     )
     (path "/0e3bc30e-6bf4-4a3b-bb9e-b0222a0ada2e"
-      (reference "J1") (unit 1) (value "TX_IN") (footprint "Connector_Coaxial:SMA_Amphenol_132291-12_Vertical")
+      (reference "J1") (unit 1) (value "TX_IN") (footprint "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal")
     )
     (path "/a56c84e2-fc3e-47e5-bc28-25e16ae83dcb"
-      (reference "J2") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132134-11_Vertical")
+      (reference "J2") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal")
     )
     (path "/f2219ee9-0b4a-411e-a31b-2be37c4295a8"
       (reference "J3") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
